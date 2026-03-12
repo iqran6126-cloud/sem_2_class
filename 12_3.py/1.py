@@ -21,3 +21,8 @@ def list_files_recursive(path):
 
 
 list_files_recursive(".")
+
+
+#path = E:\abc
+#item = a.txt
+#path1 = E:\abc\a.txt
